@@ -9,3 +9,11 @@ git clone https://github.com/akashthapa/starter-frontend
 ```
 npm install
 ```
+
+## Remove .git (Important)
+
+```
+rm -rf .git
+```
+
+Then follow the instructions to initialize git.
